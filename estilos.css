@@ -1,0 +1,27 @@
+*{
+    margin: 0;
+padding: 0;
+}
+.rojo{
+    background-color: red;
+}
+.azul{
+    background-color: blue;
+}
+#aumentodeletra  {
+    font-size: 20px;
+}
+#italica  {
+    font-style: italic;
+}
+.borde{
+    letter-spacing: 10px;
+    border-style: dashed;
+    background-color: red;
+}
+.apoyo {
+    text-align: center;
+}
+.naves{
+    text-transform: uppercase;
+}
